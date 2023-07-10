@@ -3,7 +3,7 @@
 Welcome to the SphinxShield Audit Reports repository! Here you will find comprehensive audit reports conducted by SphinxShield, a trusted name in blockchain security.
 
 ## Overview
-This repository contains detailed audit reports for smart contracts, decentralized applications (dApps), and other crypto projects. Our team of security experts meticulously analyzes these projects to identify potential vulnerabilities and security risks, providing valuable insights for project owners and the wider community.
+This repository contains detailed audit reports for smart contracts, decentralized applications (dApps), and other crypto projects. Our security experts meticulously analyse these projects to identify potential vulnerabilities and security risks, providing valuable insights for project owners and the wider community.
 
 ## Usage
 Feel free to explore the audit reports available in this repository. Each report provides an in-depth analysis of the audited project, highlighting potential security issues and recommendations for improvements. You can access the reports in PDF format for easy reference.
